@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaseProject</string>
+
+    <!--For dialog-->
+    <string name="key_ok">Ok</string>
+    <string name="key_no">No</string>
+    <string name="key_yes">Yes</string>
+</resources>
